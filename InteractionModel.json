@@ -1,0 +1,38 @@
+{
+  "intents": [
+    {
+      "name": "AMAZON.CancelIntent",
+      "samples": []
+    },
+    {
+      "name": "AMAZON.HelpIntent",
+      "samples": []
+    },
+    {
+      "name": "AMAZON.StopIntent",
+      "samples": []
+    },
+    {
+      "name": "GetFactIntent",
+      "samples": [
+        "GetFactIntent give me a fact about New England",
+        "GetFactIntent tell me something about New England",
+        "GetFactIntent what is a fact about New England",
+        "GetFactIntent what are some facts about New England",
+        "GetFactIntent tell me about New England",
+        "GetFactIntent give me a fact about {State}",
+        "GetFactIntent tell me something about {State}",
+        "GetFactIntent what is a fact about {State}"
+        "GetFactIntent what are some facts about {State}",
+        "GetFactIntent tell me about {State}"
+      ],
+      "slots": [
+        {
+          "name": "State",
+          "type": "State"
+        }
+      ]
+    }
+  ],
+  "invocationName": "new england facts"
+}

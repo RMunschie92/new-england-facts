@@ -1,0 +1,141 @@
+module.exports.facts = [
+
+  // New England [0]
+  [
+    "The region of New England is comprised of six states: Maine, Vermont, New Hampshire, Massachusetts, Rhode Island, and Connecticut.",
+    "Maine is the largest state by land area in New England.",
+    "Rhode Island is the smallest state by land area in New England and in the entire United States.",
+    "Massachusetts is the most populous state in New England. The estimated population in two-thousand fifteen was about six point eight five million people.",
+    "Vermont is the least populous state in New England. The estimated population in two-thousand sixteen was about six hundred and twenty-five thousand people.",
+    "The population of New England was estimated to be fourteen point seven three million people in two-thousand fifteen.",
+    "Boston is considered the cultural, economic, and historical capital of New England.",
+    "The largest city by population in New England is Boston Massachusetts. In two-thousand seventeen Boston had an estimated population of about six hundred and eighty eight thousand people. Boston is ",
+    "The second-largest city by population in New England is Worcester Massachusetts. In two-thousand sixteen Worcester had an estimated population of about one hundred and eighty five thousand people.",
+    "The third-largest city by population in New England is Providence Rhode Island. In two-thousand sixteen Providence had an estimated population of about one hundred and seventy eight thousand people.",
+    "Four out of the nine oldest institutions of higher education in the US are in New England.",
+    "Billboards are illegal in Maine and Vermont.",
+    "New England was the first region of the United States to be transformed by the Industrial Revolution.",
+    "New England is bordered by New York State to the west, the Canadian provinces of New Brunswick and Quebec to the north and northeast respectively, the Atlantic Ocean to the east, and Long Island Sound to the south.",
+    "English explorer John Smith named the region in New England in sixteen sixteen.",
+    "If New England were a single state it would have the fifth-largest population out of all remaining U S states.",
+    "If New England were a single state it would be the eighteenth largest state by total area.",
+    "New England has a population density of about two hundred and thirty five people per square mile.",
+    "Eight U S presidents were born in New England."
+  ],
+
+  // Connecticut [1]
+  [
+    "The capital of Connecticut is Hartford.",
+    "The largest city by population in Connecticut is Bridgeport.",
+    "Four out of the ten most populous cities in New England are in Connecticut.",
+    "Yale University in New Haven Connecticut is the third-oldest institution of higher education in the United States. It was founded in seventeen oh one.",
+    "Connecticut is the fourth-most densely populated state in the U S.",
+    "Connecticut has the oldest U.S. newspaper still being published: 'The Hartford Courant,' established in seventeen sixty four.",
+    "The USS Nautilus—the world's first nuclear powered submarine—was built in Groton Connecticut in nineteen fifty four."
+  ],
+
+  // Maine [2]
+  [
+    "Maine is the largest state by land area in New England.",
+    "The capital of Maine is Augusta.",
+    "The largest city by population in Maine is Portland.",
+    "Portland Oregon is named after Portland Maine.",
+    "Every state in New England except for Maine is included in the list of the ten smallest states by land area in the U S.",
+    "Billboards are illegal in Maine and Vermont.",
+    "Maine is the only state in the U S whose name has only one syllable.",
+    "Maine is the only U S state that shares a border with only one other state.",
+    "Aroostook County in Maine at 6,453 square miles covers an area greater than the combined size of Connecticut and Rhode Island.",
+    "Maine has about three thousand five hundred miles of coastline, more than every other state except for Alaska, Florida, and Louisiana.",
+    "Maine is the thirty eighth most densely populated state in the U S.",
+    "Acadia National Park in Maine is the oldest National Park on the U S east coast. It was established in nineteen nineteen.",
+    "Maine covers nearly as many square miles as all five other New England states combined.",
+    "There are more than two thousand islands off the coast of Maine.",
+    "The U S state that is closest to Africa is Maine.",
+    "Augusta is the most eastern capital city in the United States.",
+    "More than one hundred and thirty million pounds of lobster were caught off the coast of Maine in two thousand sixteen.",
+    "Maine used to be part of Massachusetts. It voted to secede from Massachusetts in eighteen twenty and gained statehood the same year.",
+  ],
+
+  // Mass [3]
+  [
+    "Massachusetts is the most populous state in New England. The estimated population in two-thousand fifteen was about six point eight five million people.",
+    "Boston is considered the cultural, economic, and historical capital of New England.",
+    "The largest city by population in New England is Boston Massachusetts. In two-thousand seventeen, Boston had an estimated population of about six hundred and eighty eight thousand people. Boston is ",
+    "The second-largest city by population in New England is Worcester Massachusetts. In two-thousand sixteen, Worcester had an estimated population of about one hundred and eighty five thousand people.",
+    "The Greater Boston Area Metropolitan Statistical Area is home to four point three seven million people and it's Combined Statistical Area is home to about eight point one million people.",
+    "Cambridge Massachusetts is home to two of the world's most highly regarded universities, Harvard University and Massachusetts Institute of Technology.",
+    "More people live in the city of Boston than in all of Vermont.",
+    "Basketball was invented at Springfield College in Springfield Massachusetts by Doctor James Naismith in December eighteen ninety one.",
+    "Volleyball was invented in Holyoke Massachusetts by William G Morgan in February eighteen ninety five.",
+    "Four out of the ten most populous cities in New England are in Massachusetts.",
+    "Over eighty percent of the Massachusetts population lives in the Greater Boston metropolitan area.",
+    "Harvard University in Cambridge Massachusetts is the oldest institution of higher education in the United States. It was founded sixteen thirty six. It is also the country's oldest corporation.",
+    "The infamous Salem Witch Trials took place in Salem Massachusetts in sixteen ninety two.",
+    "In sixteen twenty, New England was first settled by Puritan Pilgrims from England and formed Plymouth Colony, the second successful English settlement in America.",
+    "The smiley face was invented in Worcester, Massachusetts in nineteen sixty three by graphic designer Harvey Ball.",
+    "Massachusetts is the third-most densely populated state in the U S.",
+    "Boston's subway was the first underground railway system to be built in the western hemisphere.",
+    "Fig Newtons are named after the Boston suburb of Newton.",
+    "There's a house in Rockport Massachusetts. that is built entirely out of newspaper.",
+    "Worcester County, the largest county in Massachusetts, is larger than Rhode Island.",
+    "In eighteen eighty six Great Barrington Massachusetts became the first town in the world to get electric street lights.",
+    "Boston Common is the first public park in America.",
+    "Boston Public Schools was the first public school system in America.",
+    "The Mather School, the oldest public elementary school in the U S is located in the Dorchester neighborhood of Boston. It was founded in sixteen thirty nine.",
+    "The zip code for Agawam Massachusetts-  zero one zero zero one- is the lowest zip code for a  municipality in the continental United States.",
+    "Two hundred Clarendon Street, previously known as John Hancock Tower, in Boston is the tallest building in New England.",
+    "Boston’s NBA team, the Boston Celtics, are the most successful franchise in NBA history, having won the league championship seventeen times."
+  ],
+
+  // New Hamp [4]
+  [
+    "The capital of New Hampshire is Concord.",
+    "The largest city by population in New Hampshire is Manchester.",
+    "The highest point in New England is Mount Washington in New Hampshire.",
+    "The first potato planted in North America was planted in what is now Derry New Hampshire.",
+    "Peterborough New Hampshire is home to the first free, tax-supported public library in the U S.",
+    "New Hampshire was the first state to adopt a legal lottery in the United States in nineteen sixty three.",
+    "New Hampshire is famous for having the first primary election in each Presidential election cycle.",
+    "New Hampshire has the shortest ocean coastline of any U.S. coastal state, with a length of eighteen miles or twenty nine kilometers.",
+    "The second-highest wind speed ever recorded at ground level is at Mt. Washington, in April nineteen thirty four. The winds were two hundred and thirty one miles per hour.",
+    "New Hampshire is the only state where a foreign war was formally ended. The Treaty of Portsmouth was signed there in nineteen oh five to end the Russo-Japanese War.",
+    "New Hampshire is the only U.S. state that does not by law require adult drivers to wear safety belts while operating a motor vehicle.",
+    "New Hampshire is the twenty first most densely populated state in the U S.",
+  ],
+
+  // Rhode island [5]
+  [
+    "Rhode Island is the smallest state by land area in New England and in the entire United States.",
+    "The third-largest city by population in New England is Providence Rhode Island. In two-thousand sixteen, Providence had an estimated population of about one hundred and seventy eight thousand people.",
+    "The capital of Rhode Island is Providence.",
+    "The largest city by population in Rhode Island is Providence.",
+    "The first U S Open golf championship was held in Newport Rhode Island in eighteen twenty five.",
+    "Rhode Island was the last of the original thirteen colonies to become a state.",
+    "The official name of Rhode Island is ‘The State of Rhode Island and Providence Plantations.",
+    "Judge Darius Baker imposed the first jail sentence for speeding in an automobile on August twenty eigth, nineteen oh four in Newport Rhode Island.",
+    "Rhode Island is home to the International Tennis Hall of Fame.",
+    "The Touro Synagogue, the oldest synagogue in the U S is located in Newport Rhode Island. The synagogue was built in seventeen sixty three and is the only surviving synagogue in the U S from the colonial era.",
+    "Rhode Island is the second-most densely populated state in the U S.",
+    "You could fit Rhode Island into Texas about two hundred and twenty one times.",
+    "Worcester County, the largest county in Massachusetts, is larger than Rhode Island.",
+    "Despite being the smallest state, Rhode Island has more U S National Historic Landmarks than thirty one other states.",
+  ],
+
+  // Vermont [6]
+  [
+    "Vermont is the least populous state in New England. The estimated population in 2016 two-thousand sixteen was about six hundred and twenty-five thousand people.",
+    "The capital of Vermont is Montpelier.",
+    "The largest city by population in Vermont is Burlington.",
+    "Montpelier Vermont is the only state capital in the U S without a McDonald's.",
+    "More people live in the city of Boston than in all of Vermont.",
+    "With a population of about seven and a half thousand people, Montpelier Vermont is the least populous of all of the U S state capitals.",
+    "Billboards are illegal in Maine and Vermont.",
+    "Until nineteen ninety six, Vermont was the only state without a Walmart.",
+    "Before Vermont joined the Union it was its own country, the Vermont Republic, for fourteen years.",
+    "Vermont has the highest ratio of cows to people in the country.",
+    "Vermont is the largest producer of maple syrup in the country. It produces over half a million gallons of it a year.",
+    "Vermont is the only New England state that does not border that Atlantic Ocean",
+    "Vermont is the thirty first most densely populated state in the U S.",
+    "Vermont is the state with the most breweries per capita.",
+  ]
+];
